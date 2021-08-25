@@ -31,3 +31,7 @@ pip3 freeze > requirements.txt
 pip3 install -r requirements.txt
 ``` 
 
+
+# References
+* TensorFlow Federated Tutorials: https://www.tensorflow.org/federated/tutorials/tutorials_overview
+
