@@ -19,3 +19,15 @@ source </path/to/new/virtual/environment>/bin/activate
 (/your/venv): deactivate
 ```
 
+## Export and Import Libs for TFF 
+
+#### export libs from virtual env
+```console
+pip3 freeze > requirements.txt
+```
+
+#### import libs into the VENV
+```console
+pip3 install -r requirements.txt
+``` 
+

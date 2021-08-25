@@ -1,0 +1,1 @@
+use the `main.py`in this package to test your setup of the tensorflow federated learning
