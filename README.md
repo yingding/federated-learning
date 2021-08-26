@@ -33,5 +33,6 @@ pip3 install -r requirements.txt
 
 
 # References
+* TensorFlow Federated Overview: https://www.tensorflow.org/federated
 * TensorFlow Federated Tutorials: https://www.tensorflow.org/federated/tutorials/tutorials_overview
 
